@@ -1,0 +1,13 @@
+prefix=d:/submission data analys wina_ayang/.conda/Library
+exec_prefix=d:/submission data analys wina_ayang/.conda/Library
+libdir=d:/submission data analys wina_ayang/.conda/Library/lib
+sharedlibdir=d:/submission data analys wina_ayang/.conda/Library/lib
+includedir=d:/submission data analys wina_ayang/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

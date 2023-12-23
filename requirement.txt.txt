@@ -1,6 +1,0 @@
-Python        3.10.12 
-numpy         1.23.5
-matplotlib    3.7.1
-pandas        1.5.3
-opencv        4.8.0.76
-sklearn       2.2.0
